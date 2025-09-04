@@ -4,7 +4,7 @@ A simple command-line interface (CLI) application for managing contacts.
 
 ## Overview
 
-This Contact Management System is a Python-based application that allows users to add, edit, delete, and search for contacts. It provides a user-friendly interface for managing personal or professional contact information.
+This Contact Management System is a Python-based algorithm that allows users to add, edit, delete, and search for contacts. It provides a user-friendly logic for managing personal or professional contact information.
 
 ## Features
 
